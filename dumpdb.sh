@@ -1,5 +1,5 @@
 #!/bin/bash
-#scrip to dump de db
+#scrip to dump db
   
 if [ $# -eq 0 ]:then
     echo "Usage $0 <database_name>"
